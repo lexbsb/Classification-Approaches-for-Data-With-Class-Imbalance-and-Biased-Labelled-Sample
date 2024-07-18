@@ -1,0 +1,1 @@
+{"Seed": 35, "Prop. class 1": 0.05, "Sel. bias": 0.95, "Method": "Semi-supervised", "Test set": "future", "pr": 0.5324675324675324, "AUPRC": 0.3350817091286834, "p.50": 0.54, "p.100": 0.55, "Bias effect": 0.8688157640361587}

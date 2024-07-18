@@ -1,0 +1,1 @@
+{"Seed": 24, "Prop. class 1": 0.5, "Sel. bias": 0, "Method": "Label_Propagation", "Test set": "future", "pr": 0.6425764192139738, "AUPRC": 0.6504357895731312, "p.50": 0.74, "p.100": 0.69, "Bias effect": 0.6821462017351875}
